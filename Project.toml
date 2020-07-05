@@ -1,0 +1,4 @@
+name = "PandocTools"
+uuid = "5d943303-dea8-4942-b77f-2cedb445b524"
+authors = ["Erik Engheim <erik.engheim@mac.com>"]
+version = "0.1.0"
